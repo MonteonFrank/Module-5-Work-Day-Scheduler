@@ -20,8 +20,17 @@ jQuery is much simpler to use and also compared with Challenge 4, it was much mo
 
 <h2><strong>Screenshots and links</strong></h2>
 <p>How the webpage should look when opening:</p>
+<p>![image](https://user-images.githubusercontent.com/112662397/211706875-6ce91221-3127-458b-86d4-7b913cbe516d.png)</p>
+
+<p>When saving an event, a pop up window stated the event was saved</p>
+<p>![image](https://user-images.githubusercontent.com/112662397/211707062-5739b113-ac00-4ae4-ad48-a838dd2da042.png)</p>
+
+<p>Event saved an be seen in local storage and when closing or reloading, its displayed</p>
+<p>![image](https://user-images.githubusercontent.com/112662397/211707205-d3bf928c-0730-4a12-bf66-921e56556e83.png)</p>
+
+<p>Time blocks change color as the time chages</p>
 <p></p>
 
 <p>Link to github pages </p>
-<p></p>
+<p>https://monteonfrank.github.io/Work-Day-Scheduler-using-3rd-Party-APIs---Bootcamp-Module-5/</p>
 
